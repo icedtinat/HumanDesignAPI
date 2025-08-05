@@ -1,0 +1,6 @@
+@HumanDesignAPI_HostAddress = http://localhost:5297
+
+GET {{HumanDesignAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
